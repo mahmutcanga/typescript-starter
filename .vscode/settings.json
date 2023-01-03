@@ -1,0 +1,12 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.formatOnSave": true,
+  "files.exclude": {
+    "app/**/*.js": true,
+    "app/**/*.js.map": true,
+    "app/**/*.d.ts": true,
+    "build": true,
+  },
+}

@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "chris-noring.node-snippets",
+        "christian-kohler.npm-intellisense",
+        "esbenp.prettier-vscode"
+    ]
+}
